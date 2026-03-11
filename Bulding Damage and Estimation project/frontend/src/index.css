@@ -1,0 +1,16 @@
+
+/* minimal styling */
+body { 
+  margin: 0; 
+  padding: 0; 
+  background: #000;
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}

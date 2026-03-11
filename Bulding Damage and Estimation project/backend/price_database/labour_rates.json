@@ -1,0 +1,34 @@
+[
+    {
+        "type": "Helper / Unskilled",
+        "rate_per_day": 600
+    },
+    {
+        "type": "Mason (Skilled)",
+        "rate_per_day": 1100
+    },
+    {
+        "type": "Carpenter",
+        "rate_per_day": 1000
+    },
+    {
+        "type": "Bar Bender",
+        "rate_per_day": 950
+    },
+    {
+        "type": "Painter",
+        "rate_per_day": 900
+    },
+    {
+        "type": "Electrician",
+        "rate_per_day": 1000
+    },
+    {
+        "type": "Plumber",
+        "rate_per_day": 1000
+    },
+    {
+        "type": "Supervisor",
+        "rate_per_day": 1500
+    }
+]

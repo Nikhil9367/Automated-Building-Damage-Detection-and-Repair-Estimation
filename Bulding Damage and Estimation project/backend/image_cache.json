@@ -1,0 +1,974 @@
+{
+  "7f5bf997efb6b45656c92c08539f392bab119c01eb416632cdd11456f44225d5": {
+    "damage_summary": {
+      "damage_type": "None Detected",
+      "severity": "Low",
+      "root_cause": "N/A",
+      "technical_assessment": "The surface plaster and paint finish surrounding the window and door fixtures appear intact, smooth, and defect-free. No signs of stress cracking, moisture intrusion, spalling, or deterioration are visible in the uploaded image. The electrical switch plate is also securely set. In this uploaded image, no damage is detected; therefore, the estimated repair cost is Nil (\u20b90).",
+      "safety_impact": "Nil",
+      "remaining_life_before_repair": "N/A (Structure is sound)",
+      "urgency_reason": "No structural defects require immediate attention.",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "detailed_assessment": {
+      "damage_name": "No Structural Defect Identified",
+      "severity_level": "Low",
+      "location": "Interior/Exterior wall plane",
+      "description": "The wall plane and surrounding finishes exhibit a structurally sound and aesthetically maintained condition. All observed fixtures (window, door, switch) are well-integrated.",
+      "risk_level": "Low",
+      "action_required": "Monitor"
+    },
+    "repair_recommendation_steps": [
+      "Continue regular aesthetic and structural monitoring for future defects.",
+      "Ensure electrical fittings remain securely installed and sealed against dust/moisture."
+    ],
+    "labour_details": [],
+    "materials_required": [],
+    "tools_equipment": [],
+    "weather_suitability": {
+      "ideal_weather": "20\u00b0C - 30\u00b0C / 50% - 65% Humidity",
+      "recommended_window": "N/A (No Repair Required)",
+      "rain_probability": "N/A",
+      "temperature": "N/A",
+      "humidity": "N/A",
+      "work_efficiency": "100% (No work required)",
+      "reason_best_dates": "N/A",
+      "days_to_avoid": "Heavy rain or extreme heat"
+    },
+    "total_cost_summary": {
+      "total_material_cost": 0,
+      "total_labour_cost": 0,
+      "equipment_cost": 0,
+      "overheads": 0,
+      "contingency": 0,
+      "final_estimate": 0
+    },
+    "timeline_and_schedule": {
+      "estimated_duration_days": 0,
+      "work_schedule_summary": "No repair work is necessary based on the visual inspection."
+    },
+    "post_repair_life_expectancy": {
+      "expected_remaining_life": "Indefinite (Subject to future monitoring)",
+      "warranty_period": "N/A",
+      "maintenance_recommendation": "Perform annual inspections for hairline cracks or moisture ingress.",
+      "improvement_summary": "No improvement needed; condition is optimal.",
+      "estimated_structure_age_after_repair": "N/A",
+      "life_extension_years": "N/A"
+    },
+    "final_recommendations": {
+      "structural_risk": "Current structural risk is negligible.",
+      "repair_urgency": "No repair action is required.",
+      "future_prevention_steps": "Maintain high quality paint and sealant around fixtures to prevent future moisture damage."
+    },
+    "limitations": [
+      "Image-based assessment only",
+      "No subsurface or structural testing",
+      "Results depend on image quality"
+    ],
+    "confidence_explanation": [
+      "Image clarity is excellent, allowing for high confidence in the surface condition analysis.",
+      "Adequate lighting ensures complete visualization of the wall plane.",
+      "The absence of damage is confirmed across the entire photographed area."
+    ],
+    "confidence_score": 1.0,
+    "damage_type": "None Detected",
+    "severity": 0.2,
+    "description": "N/A. No structural defects require immediate attention.",
+    "recommendation": "See detailed remediation report.",
+    "bbox": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "edge_ratio": 0.0,
+    "confidence": 0.88
+  },
+  "645e3ab427817a7f3f038ebab844930eeb8bb9af8eafcb567ca1fac325953f62": {
+    "damage_summary": {
+      "damage_type": "None",
+      "severity": "Low",
+      "root_cause": "N/A",
+      "technical_assessment": "The interior wall surface shows excellent uniformity and finish. No visual indications of cracking, settlement issues, dampness, or paint degradation are observed. The electrical outlet appears properly installed.",
+      "safety_impact": "None",
+      "remaining_life_before_repair": "Full structural life expected",
+      "urgency_reason": "No structural defect detected.",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "detailed_assessment": {
+      "damage_name": "No Structural or Aesthetic Defect",
+      "severity_level": "Low",
+      "location": "Interior Wall Surface",
+      "description": "The wall exhibits a smooth, well-maintained painted finish. No signs of stress concentration, micro-cracks, or material failure are present.",
+      "risk_level": "Low",
+      "action_required": "Monitor"
+    },
+    "repair_recommendation_steps": [
+      "Continue regular aesthetic and structural monitoring for future defects.",
+      "Ensure electrical fittings remain securely installed and sealed against dust/moisture.",
+      "In this uploaded image, no damage is detected; therefore, the estimated repair cost is Nil (\u20b90)."
+    ],
+    "labour_details": [],
+    "materials_required": [],
+    "tools_equipment": [],
+    "weather_suitability": {
+      "ideal_weather": "20\u00b0C - 30\u00b0C / 50% - 65% Humidity",
+      "recommended_window": "N/A (No repairs needed)",
+      "rain_probability": "< 5%",
+      "temperature": "N/A",
+      "humidity": "N/A",
+      "work_efficiency": "None",
+      "reason_best_dates": "N/A",
+      "days_to_avoid": "N/A"
+    },
+    "total_cost_summary": {
+      "total_material_cost": 0,
+      "total_labour_cost": 0,
+      "equipment_cost": 0,
+      "overheads": 0,
+      "contingency": 0,
+      "final_estimate": 0
+    },
+    "timeline_and_schedule": {
+      "estimated_duration_days": 0,
+      "work_schedule_summary": "No repair work required based on current visual evidence."
+    },
+    "post_repair_life_expectancy": {
+      "expected_remaining_life": "Undetermined (Excellent current condition)",
+      "warranty_period": "N/A",
+      "maintenance_recommendation": "Regular cleaning and visual inspection.",
+      "improvement_summary": "Condition is optimal.",
+      "estimated_structure_age_after_repair": "Equivalent to a new structure",
+      "life_extension_years": "N/A"
+    },
+    "final_recommendations": {
+      "structural_risk": "Negligible. Structure is visually sound.",
+      "repair_urgency": "Nil. Maintain current condition.",
+      "future_prevention_steps": "Ensure ventilation and check plumbing lines periodically."
+    },
+    "limitations": [
+      "Image-based assessment only",
+      "No subsurface or structural testing",
+      "Results depend on image quality"
+    ],
+    "confidence_explanation": [
+      "High image clarity and uniform lighting conditions.",
+      "The entire visible wall area is smooth and free of blemishes.",
+      "Absence of typical damage indicators (cracks, stains, spalling)."
+    ],
+    "damage_type": "None",
+    "severity": 0.2,
+    "description": "N/A. No structural defect detected.",
+    "recommendation": "See detailed remediation report.",
+    "bbox": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "edge_ratio": 0.0,
+    "confidence": 0.88
+  },
+  "1d4318cabbe1d92f15f20acfdd0abb66f6d62738d523e06155901adf714f50af": {
+    "damage_summary": {
+      "damage_type": "Exterior Render/Coating Failure",
+      "severity": "Medium",
+      "root_cause": "Moisture infiltration and poor adhesion, likely exacerbated by thermal stress.",
+      "technical_assessment": "Localized delamination and peeling of the exterior render/paint layer, exposing the underlying plaster. The affected area is approximately 0.5 sq.m. This is a non-structural defect, but requires repair to prevent further moisture penetration into the wall assembly.",
+      "safety_impact": "Negligible immediate safety risk; minor risk of falling debris (paint flakes).",
+      "remaining_life_before_repair": "12-24 months (Aesthetic & moisture risk timeline)",
+      "urgency_reason": "Prevent progressive deterioration and water seepage into interior walls.",
+      "bbox": [
+        300,
+        300,
+        300,
+        300
+      ]
+    },
+    "detailed_assessment": {
+      "damage_name": "Fa\u00e7ade Finish Peeling (Debonding)",
+      "severity_level": "Medium",
+      "location": "Fa\u00e7ade wall, approximately 3rd floor level, centered between two windows.",
+      "description": "A patch of the exterior rough-cast finish has completely detached, revealing a lighter substrate. The edges show poor bonding, suggesting material incompatibility or water intrusion behind the plaster layer.",
+      "risk_level": "Low",
+      "action_required": "Within 30 days"
+    },
+    "repair_recommendation_steps": [
+      "Scrape and clean the affected area (including loose surrounding edges) down to the solid substrate using brushes and pressure washing.",
+      "Apply a bonding agent/primer to the exposed substrate to ensure proper adhesion for the new patch.",
+      "Apply a Polymer Modified Mortar patch, ensuring the surface finish matches the surrounding existing texture.",
+      "Allow adequate curing time (24-48 hours), then apply one coat of Exterior Primer followed by two coats of suitable Exterior Paint for weather protection and aesthetic blending."
+    ],
+    "labour_details": [
+      {
+        "type": "Mason (Skilled)",
+        "count": 1,
+        "cost_per_day": 1100,
+        "total_days": 2,
+        "total_cost": 2200
+      },
+      {
+        "type": "Helper / Unskilled",
+        "count": 1,
+        "cost_per_day": 600,
+        "total_days": 2,
+        "total_cost": 1200
+      },
+      {
+        "type": "Painter",
+        "count": 1,
+        "cost_per_day": 900,
+        "total_days": 1,
+        "total_cost": 900
+      }
+    ],
+    "materials_required": [
+      {
+        "name": "Polymer Modified Mortar (per litre)",
+        "quantity": "1.0",
+        "unit": "litre",
+        "market_rate": 413,
+        "total_cost": 413
+      },
+      {
+        "name": "Exterior Primer (per litre)",
+        "quantity": "1.0",
+        "unit": "litre",
+        "market_rate": 295,
+        "total_cost": 295
+      },
+      {
+        "name": "Exterior Paint (touch-up / blending)",
+        "quantity": "1.0",
+        "unit": "litre",
+        "market_rate": 649,
+        "total_cost": 649
+      },
+      {
+        "name": "Fiberglass Mesh (per m2)",
+        "quantity": "1.0",
+        "unit": "m2",
+        "market_rate": 118,
+        "total_cost": 118
+      }
+    ],
+    "tools_equipment": [
+      {
+        "name": "Scaffolding Set",
+        "rent_per_day": 250,
+        "total_days": 2,
+        "total_cost": 500
+      },
+      {
+        "name": "Safety Kit (Helmet, Jacket, etc.)",
+        "rent_per_day": 100,
+        "total_days": 2,
+        "total_cost": 200
+      },
+      {
+        "name": "Lifting Pulley",
+        "rent_per_day": 200,
+        "total_days": 2,
+        "total_cost": 400
+      }
+    ],
+    "weather_suitability": {
+      "ideal_weather": "20\u00b0C - 30\u00b0C / 50% - 65%",
+      "recommended_window": "10 October - 20 December",
+      "rain_probability": "< 5%",
+      "temperature": "20\u00b0C - 30\u00b0C",
+      "humidity": "50% - 65%",
+      "work_efficiency": "Optimal",
+      "reason_best_dates": "Lower humidity aids proper mortar curing and paint adhesion.",
+      "days_to_avoid": "Heavy rain or temperatures below 10\u00b0C"
+    },
+    "total_cost_summary": {
+      "total_material_cost": 1475,
+      "total_labour_cost": 4300,
+      "equipment_cost": 1100,
+      "overheads": 544,
+      "contingency": 204,
+      "final_estimate": 7623
+    },
+    "timeline_and_schedule": {
+      "estimated_duration_days": 3,
+      "work_schedule_summary": "Day 1: Setup and Surface Preparation. Day 2: Mortar Patching and Curing. Day 3: Priming, Painting, and Demobilization."
+    },
+    "post_repair_life_expectancy": {
+      "expected_remaining_life": "10-15 years (for repaired patch)",
+      "warranty_period": "5 years (against finish peeling)",
+      "maintenance_recommendation": "Inspect every 2 years for signs of cracking or moisture ingress.",
+      "improvement_summary": "Restored weather resistance and aesthetic integrity to the fa\u00e7ade.",
+      "estimated_structure_age_after_repair": "Equivalent to a 5-year old structure (for this section)",
+      "life_extension_years": "+15 Years"
+    },
+    "final_recommendations": {
+      "structural_risk": "No structural concern. Repair is mandatory for durability.",
+      "repair_urgency": "Execute repair within the next 30 days before monsoon season starts.",
+      "future_prevention_steps": "Ensure proper drainage from the roof/gutters to prevent wall saturation."
+    },
+    "limitations": [
+      "Image-based assessment only; actual extent of sub-surface degradation is unknown.",
+      "No subsurface or structural testing was performed.",
+      "Results depend on image clarity and visibility of the defect."
+    ],
+    "confidence_explanation": [
+      "Damage type (finish delamination) is clearly visible and localized.",
+      "Excellent daylight and angle provide high visibility of the defect texture contrast.",
+      "Confidence score is reduced slightly as underlying substrate moisture levels are unverified."
+    ],
+    "damage_type": "Exterior Render/Coating Failure",
+    "severity": 0.5,
+    "description": "Moisture infiltration and poor adhesion, likely exacerbated by thermal stress.. Prevent progressive deterioration and water seepage into interior walls.",
+    "recommendation": "See detailed remediation report.",
+    "bbox": [
+      300,
+      300,
+      300,
+      300
+    ],
+    "edge_ratio": 0.0,
+    "confidence": 0.88
+  },
+  "d47e02228440a0ab7c58dcedb737e65629ed8805a3b16e361d6fb1d2ecf64d06": {
+    "damage_summary": {
+      "damage_type": "None Visible",
+      "severity": "Low",
+      "root_cause": "N/A",
+      "technical_assessment": "The structural elements visible (roof tiling, brick facade, chimney) show no signs of immediate distress, significant material loss, spalling, or cracking. The roofline appears clean and intact.",
+      "safety_impact": "None currently observed.",
+      "remaining_life_before_repair": "Optimal (No repair needed)",
+      "urgency_reason": "Monitoring required, not repair.",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "detailed_assessment": {
+      "damage_name": "No Structural or Aesthetic Defect Detected",
+      "severity_level": "Low",
+      "location": "Overall Exterior Facade and Roof Structure",
+      "description": "The image analysis indicates the roof shingles, brickwork, and chimney are in good condition without visible degradation, cracks, or material failure. In this uploaded image, no damage is detected; therefore, the estimated repair cost is Nil (\u20b90).",
+      "risk_level": "Low",
+      "action_required": "Monitor"
+    },
+    "repair_recommendation_steps": [
+      "Continue regular aesthetic and structural monitoring for future defects.",
+      "Ensure electrical fittings remain securely installed and sealed against dust/moisture."
+    ],
+    "labour_details": [],
+    "materials_required": [],
+    "tools_equipment": [],
+    "weather_suitability": {
+      "ideal_weather": "15\u00b0C - 30\u00b0C / 40% - 65% Humidity",
+      "recommended_window": "N/A",
+      "rain_probability": "< 5%",
+      "temperature": "N/A",
+      "humidity": "N/A",
+      "work_efficiency": "100%",
+      "reason_best_dates": "Work not required.",
+      "days_to_avoid": "N/A"
+    },
+    "total_cost_summary": {
+      "total_material_cost": 0,
+      "total_labour_cost": 0,
+      "equipment_cost": 0,
+      "overheads": 0,
+      "contingency": 0,
+      "final_estimate": 0
+    },
+    "timeline_and_schedule": {
+      "estimated_duration_days": 0,
+      "work_schedule_summary": "No structural repair work is necessary based on the current visual evidence."
+    },
+    "post_repair_life_expectancy": {
+      "expected_remaining_life": "Indefinite (Maintenance Dependent)",
+      "warranty_period": "N/A",
+      "maintenance_recommendation": "Perform annual visual inspections of roof and masonry.",
+      "improvement_summary": "Structure is currently in excellent visual condition.",
+      "estimated_structure_age_after_repair": "Current condition maintained.",
+      "life_extension_years": "N/A"
+    },
+    "final_recommendations": {
+      "structural_risk": "Risk is negligible based on visual evidence.",
+      "repair_urgency": "No repair action required; continue monitoring.",
+      "future_prevention_steps": "Ensure proper drainage systems are maintained to prevent water ingress."
+    },
+    "limitations": [
+      "Image-based assessment only",
+      "No subsurface or structural testing",
+      "Results depend on image quality"
+    ],
+    "confidence_explanation": [
+      "The image is clear enough to rule out major structural failures or missing components.",
+      "Minor aesthetic defects or micro-cracks may be obscured by the large viewing distance.",
+      "High confidence (0.95) that no immediate structural hazard is present."
+    ],
+    "damage_type": "None Visible",
+    "severity": 0.2,
+    "description": "N/A. Monitoring required, not repair.",
+    "recommendation": "See detailed remediation report.",
+    "bbox": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "edge_ratio": 0.0,
+    "confidence": 0.88
+  },
+  "dccf13e61d7ba7e818f8886a09399ec6548540b1758ad4b1f23cdce68c754c84": {
+    "damage_summary": {
+      "damage_type": "None Detected",
+      "severity": "N/A",
+      "root_cause": "N/A",
+      "technical_assessment": "Exterior facade appears sound. No visual evidence of cracks, spalling, corrosion, or significant aesthetic degradation was observed in the uploaded photograph.",
+      "safety_impact": "None",
+      "remaining_life_before_repair": "Indefinite (Subject to regular monitoring)",
+      "urgency_reason": "N/A",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "detailed_assessment": {
+      "damage_name": "No Damage Detected",
+      "severity_level": "N/A",
+      "location": "Exterior Facade",
+      "description": "The inspected area shows a clean and well-maintained facade. No signs of structural distress, material degradation, or excessive weathering are present. In this uploaded image, no damage is detected; therefore, the estimated repair cost is Nil (\u20b90).",
+      "risk_level": "Low",
+      "action_required": "Monitor"
+    },
+    "repair_recommendation_steps": [
+      "Continue regular aesthetic and structural monitoring for future defects.",
+      "Ensure electrical fittings remain securely installed and sealed against dust/moisture."
+    ],
+    "labour_details": [],
+    "materials_required": [],
+    "tools_equipment": [],
+    "weather_suitability": {
+      "ideal_weather": "15\u00c2\u00b0C - 28\u00c2\u00b0C / 40% - 55%",
+      "recommended_window": "10 January - 15 March",
+      "rain_probability": "< 5%",
+      "temperature": "15\u00c2\u00b0C - 28\u00c2\u00b0C",
+      "humidity": "40% - 55%",
+      "work_efficiency": "100%",
+      "reason_best_dates": "Low rain risk ensures optimal aesthetic monitoring conditions.",
+      "days_to_avoid": "Heavy rain or extreme heat"
+    },
+    "total_cost_summary": {
+      "total_material_cost": 0,
+      "total_labour_cost": 0,
+      "equipment_cost": 0,
+      "overheads": 0,
+      "contingency": 0,
+      "final_estimate": 0
+    },
+    "timeline_and_schedule": {
+      "estimated_duration_days": 0,
+      "work_schedule_summary": "N/A - Monitoring only required."
+    },
+    "post_repair_life_expectancy": {
+      "expected_remaining_life": "Requires no immediate extension or repair.",
+      "warranty_period": "N/A",
+      "maintenance_recommendation": "Perform visual checks bi-annually.",
+      "improvement_summary": "Structure is currently in good visual condition.",
+      "estimated_structure_age_after_repair": "Current structure age retained.",
+      "life_extension_years": "N/A"
+    },
+    "final_recommendations": {
+      "structural_risk": "Minimal risk based on visual inspection.",
+      "repair_urgency": "None required.",
+      "future_prevention_steps": "Ensure adequate drainage systems are maintained to prevent facade saturation."
+    },
+    "limitations": [
+      "Image-based assessment only",
+      "No subsurface or structural testing",
+      "Results depend on image quality"
+    ],
+    "confidence_explanation": [
+      "High clarity and good illumination of the entire facade area.",
+      "The resolution is sufficient to rule out macro-defects like large cracks or spalling.",
+      "The building appears aesthetically well-maintained, suggesting recent or ongoing basic maintenance."
+    ],
+    "confidence_score": 0.95,
+    "damage_type": "None Detected",
+    "severity": 0.2,
+    "description": "N/A. N/A",
+    "recommendation": "See detailed remediation report.",
+    "bbox": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "edge_ratio": 0.0,
+    "confidence": 0.88
+  },
+  "d9c403f089fcbf1c4bbbe66bc7907d57dc2d323fe3924595730481e30540ffcb": {
+    "damage_summary": {
+      "damage_type": "Diagonal Shear Crack / Differential Settlement",
+      "severity": "Medium",
+      "root_cause": "Differential movement or high shear stress on the wall section.",
+      "technical_assessment": "A prominent diagonal crack is visible, extending across the plaster surface and penetrating the brick substrate beneath. The crack width is significant (estimated > 5 mm in parts), indicating movement exceeding aesthetic limits, potentially linked to localized settlement or thermal stress.",
+      "safety_impact": "Low, if the wall is non-structural; Medium, if the crack penetrates a critical load-bearing element (requires onsite confirmation). Currently localized to plaster/infill.",
+      "remaining_life_before_repair": "Immediate repair required to prevent moisture ingress and crack widening.",
+      "urgency_reason": "Moisture ingress risk and ongoing aesthetic deterioration.",
+      "bbox": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "detailed_assessment": {
+      "damage_name": "Wide Diagonal Wall Crack (Plaster failure)",
+      "severity_level": "Medium",
+      "location": "Infill wall section (diagonal plane)",
+      "description": "The crack is wide and diagonal, peeling the plaster finish and exposing the masonry substrate. The diagonal pattern suggests shear forces are acting on this section of the wall.",
+      "risk_level": "Medium",
+      "action_required": "Within 30 days (Repair the wall section, monitor adjacent areas for future movement)"
+    },
+    "repair_recommendation_steps": [
+      "Hack away all loose and damaged plaster along the crack path (approx. 150mm width) until a stable substrate is reached.",
+      "Clean the crack thoroughly, dampen the surface, and apply Polymer Modified Mortar to fill voids. If required, widen the crack slightly (V-groove) and apply epoxy grout for deep injection.",
+      "Embed Fiberglass Mesh across the repair area to reinforce the new plaster/mortar against re-cracking due to minor residual movement.",
+      "Re-plaster the patched area, apply exterior primer, and touch up with exterior paint to match the existing finish."
+    ],
+    "labour_details": [
+      {
+        "type": "Mason (Skilled)",
+        "count": 1,
+        "cost_per_day": 1100,
+        "total_days": 2,
+        "total_cost": 2200
+      },
+      {
+        "type": "Helper / Unskilled",
+        "count": 1,
+        "cost_per_day": 600,
+        "total_days": 2,
+        "total_cost": 1200
+      },
+      {
+        "type": "Painter",
+        "count": 1,
+        "cost_per_day": 900,
+        "total_days": 1,
+        "total_cost": 900
+      },
+      {
+        "type": "Supervisor",
+        "count": 0.5,
+        "cost_per_day": 1500,
+        "total_days": 2,
+        "total_cost": 1500
+      }
+    ],
+    "materials_required": [
+      {
+        "name": "Polymer Modified Mortar (per litre)",
+        "quantity": "2.5",
+        "unit": "litre",
+        "market_rate": 413,
+        "total_cost": 1033
+      },
+      {
+        "name": "Fiberglass Mesh (per m2)",
+        "quantity": "0.5",
+        "unit": "m2",
+        "market_rate": 118,
+        "total_cost": 59
+      },
+      {
+        "name": "Exterior Primer (per litre)",
+        "quantity": "0.5",
+        "unit": "litre",
+        "market_rate": 295,
+        "total_cost": 148
+      },
+      {
+        "name": "Exterior Paint (touch-up / blending)",
+        "quantity": "0.5",
+        "unit": "unit",
+        "market_rate": 649,
+        "total_cost": 325
+      }
+    ],
+    "tools_equipment": [
+      {
+        "name": "Drilling Machine",
+        "rent_per_day": 350,
+        "total_days": 0.5,
+        "total_cost": 175
+      },
+      {
+        "name": "Safety Kit (Helmet, Jacket, etc.)",
+        "rent_per_day": 100,
+        "total_days": 2,
+        "total_cost": 200
+      }
+    ],
+    "weather_suitability": {
+      "ideal_weather": "20\u00b0C - 30\u00b0C / 50% - 65%",
+      "recommended_window": "10 October - 20 December",
+      "rain_probability": "< 5%",
+      "temperature": "20\u00b0C - 30\u00b0C",
+      "humidity": "50% - 65%",
+      "work_efficiency": "Excellent for mortar curing and painting.",
+      "reason_best_dates": "Lower humidity aids material setting and paint application.",
+      "days_to_avoid": "Heavy rain days; high wind days."
+    },
+    "total_cost_summary": {
+      "total_material_cost": 1565,
+      "total_labour_cost": 5800,
+      "equipment_cost": 375,
+      "overheads": 619,
+      "contingency": 232,
+      "final_estimate": 8591
+    },
+    "timeline_and_schedule": {
+      "estimated_duration_days": 2,
+      "work_schedule_summary": "Day 1: Hacking, cleaning, primary filling, and mesh application. Day 2: Final plaster, curing time, priming, and painting."
+    },
+    "post_repair_life_expectancy": {
+      "expected_remaining_life": "If underlying cause is addressed, +15 years. If movement continues, recurring cracks possible within 1-3 years.",
+      "warranty_period": "2 Years (Workmanship only)",
+      "maintenance_recommendation": "Monitor repaired patch monthly for hairline cracks, especially during seasonal temperature swings.",
+      "improvement_summary": "Restores aesthetic integrity and seals the substrate against moisture damage.",
+      "estimated_structure_age_after_repair": "Equivalent to a 5-year old structure (Surface finish only)",
+      "life_extension_years": "+15 Years"
+    },
+    "final_recommendations": {
+      "structural_risk": "Consult a geotechnical engineer if adjacent areas show similar deep cracking, indicating settlement.",
+      "repair_urgency": "Medium. Repair necessary within 30 days to mitigate further exposure and water damage.",
+      "future_prevention_steps": "Ensure proper subsurface drainage around the foundation perimeter to prevent differential settlement."
+    },
+    "limitations": [
+      "Image-based assessment only; actual crack depth and root cause cannot be confirmed.",
+      "No subsurface or structural testing has been performed to evaluate load-bearing capacity.",
+      "Results depend on image quality and scale; estimated lengths are approximate."
+    ],
+    "confidence_explanation": [
+      "High clarity image allows for precise identification of crack type and width (>5mm).",
+      "Damage location (wall surface) is well-defined.",
+      "Severity rating is based solely on the visible plaster failure and substrate exposure."
+    ],
+    "damage_type": "Diagonal Shear Crack / Differential Settlement",
+    "severity": 0.5,
+    "description": "Differential movement or high shear stress on the wall section.. Moisture ingress risk and ongoing aesthetic deterioration.",
+    "recommendation": "See detailed remediation report.",
+    "bbox": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "edge_ratio": 0.0,
+    "confidence": 0.88
+  },
+  "db31e17853fc1f01f2a89ea146d3705f8542984c5ccf388a80359ef63f1feb6a": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.75,
+    "bbox": [
+      20,
+      40,
+      209,
+      207
+    ],
+    "edge_ratio": 0.077957,
+    "source": "ResNet50"
+  },
+  "8bf9838663437d546285dd08e4fd20c52c2245971843cb64ebcc052d30eba382": {
+    "damage_type": "crack",
+    "severity": 0.93,
+    "confidence": 0.93,
+    "bbox": [
+      181,
+      259,
+      87,
+      86
+    ],
+    "edge_ratio": 0.043204,
+    "source": "ResNet50",
+    "damage_summary": {
+      "damage_type": "Crack",
+      "severity": "High",
+      "root_cause": "Thermal expansion or structural settling.",
+      "technical_assessment": "Linear discontinuity observed on surface.",
+      "safety_impact": "Moderate. Monitor for expansion.",
+      "remaining_life_before_repair": "1-3 Months",
+      "urgency_reason": "Prevent moisture ingress and further deterioration",
+      "bbox": [
+        181,
+        259,
+        87,
+        86
+      ]
+    },
+    "detailed_assessment": {
+      "damage_name": "Crack",
+      "severity_level": "High",
+      "location": "Vertical Wall Element (Est.)",
+      "description": "Visible cracking pattern indicating potential stress concentration or material shrinkage.",
+      "risk_level": "High",
+      "action_required": "Seal with epoxy injection or polymer mortar within 30 days."
+    },
+    "repair_recommendation_steps": [
+      "Clean the crack surface thoroughly to remove loose debris.",
+      "Install injection ports along the crack length.",
+      "Seal the surface between ports with epoxy paste.",
+      "Inject low-viscosity epoxy resin starting from the bottom port.",
+      "Allow curing for 24-48 hours and remove ports.",
+      "Finish the surface to match existing texture."
+    ],
+    "materials_required": [
+      {
+        "name": "Cementitious Repair Mortar",
+        "quantity": "9",
+        "unit": "OPC-based",
+        "market_rate": 512.0,
+        "total_cost": 4608.0
+      },
+      {
+        "name": "Epoxy Grout",
+        "quantity": "9",
+        "unit": "per kg",
+        "market_rate": 177.0,
+        "total_cost": 1593.0
+      },
+      {
+        "name": "Exterior Paint",
+        "quantity": "9",
+        "unit": "touch-up / blending",
+        "market_rate": 649.0,
+        "total_cost": 5841.0
+      }
+    ],
+    "labour_details": [
+      {
+        "type": "Helper / Unskilled",
+        "count": 1,
+        "cost_per_day": 600,
+        "total_days": 3,
+        "total_cost": 1800
+      },
+      {
+        "type": "Mason (Skilled)",
+        "count": 1,
+        "cost_per_day": 1100,
+        "total_days": 3,
+        "total_cost": 3300
+      }
+    ],
+    "tools_equipment": [
+      {
+        "name": "Drilling Machine",
+        "rent_per_day": 350,
+        "total_days": 3,
+        "total_cost": 1050
+      },
+      {
+        "name": "Scaffolding Set",
+        "rent_per_day": 250,
+        "total_days": 3,
+        "total_cost": 750
+      }
+    ],
+    "weather_suitability": {
+      "ideal_weather": "20\u00c2\u00b0C - 30\u00c2\u00b0C",
+      "recommended_window": "10 October to 20 December",
+      "rain_probability": "< 5%",
+      "work_efficiency": "High during dry season",
+      "reason_best_dates": "Low humidity ensures better curing.",
+      "days_to_avoid": "Heavy rain days"
+    },
+    "total_cost_summary": {
+      "total_material_cost": 12042.0,
+      "total_labour_cost": 5100,
+      "equipment_cost": 1800,
+      "overheads": 1515,
+      "contingency": 568,
+      "final_estimate": 21025.0,
+      "disclaimer": "Cost estimates are indicative and normalized using Indian market labor and material benchmarks."
+    },
+    "post_repair_life_expectancy": {
+      "estimated_structure_age_after_repair": "Restored to functional condition",
+      "life_extension_years": "Appears to extend life by +5 to 10 Years",
+      "warranty_period": "1 Year on workmanship (Suggested)",
+      "maintenance_recommendation": "Annual inspection recommended.",
+      "improvement_summary": "Structural integrity appears restored and further propagation arrested."
+    },
+    "final_recommendations": {
+      "structural_risk": "Reduced risk after repair (Subject to verification).",
+      "repair_urgency": " Recommended within 1 month.",
+      "future_prevention_steps": "Maintain drainage and seal surface cracks periodically."
+    },
+    "limitations": [
+      "Image-based assessment only",
+      "No subsurface or structural testing",
+      "Results depend on image quality"
+    ],
+    "confidence_explanation": [
+      "Analysis based on visible surface patterns."
+    ]
+  },
+  "4272a40a631871ca59c74076a4e177fb55cf8bfa2c0b948d701f3b158e98a561": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.99,
+    "bbox": [
+      0,
+      209,
+      433,
+      180
+    ],
+    "edge_ratio": 0.001644,
+    "source": "ResNet50"
+  },
+  "0553a8db3976e5ac9c7d6e67115f115f00db264a014e48dfe7ef59ea80ef13ce": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.93,
+    "bbox": [
+      3,
+      205,
+      191,
+      336
+    ],
+    "edge_ratio": 0.252593,
+    "source": "ResNet50"
+  },
+  "c5ec6139baaf0f88a73fa6bb536f9d2ac29451c49f820a34658f84efa52ca930": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.91,
+    "bbox": [
+      678,
+      766,
+      69,
+      114
+    ],
+    "edge_ratio": 0.063193,
+    "source": "ResNet50"
+  },
+  "7aa2b67a79a697cac705379f6605c4d4bb29d01b8bafaf4959d0431ccf65dfa8": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.99,
+    "bbox": [
+      464,
+      555,
+      220,
+      114
+    ],
+    "edge_ratio": 0.073101,
+    "source": "ResNet50"
+  },
+  "e7a18bbc0337578c4a7736094b13e8b57445541d5473d2e7705792b52188e59d": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.99,
+    "bbox": [
+      554,
+      478,
+      481,
+      442
+    ],
+    "edge_ratio": 0.047423,
+    "source": "ResNet50"
+  },
+  "55852723200b516bd3641c7d3675bfa81a5dff33dc0131eacd058aa841e995d0": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.87,
+    "bbox": [
+      580,
+      790,
+      45,
+      30
+    ],
+    "edge_ratio": 0.015631,
+    "source": "ResNet50"
+  },
+  "cb089a3aacf36e328f8ea706352fc0f3af3fb36b998664a1b0c910e341e051d2": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.87,
+    "bbox": [
+      12,
+      0,
+      120,
+      390
+    ],
+    "edge_ratio": 0.022861,
+    "source": "ResNet50"
+  },
+  "3452e4d373010ca9502126e719d27dc2a87eb187f9c5e9ea614b87292095ce95": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.63,
+    "bbox": [
+      873,
+      137,
+      48,
+      102
+    ],
+    "edge_ratio": 0.094131,
+    "source": "ResNet50"
+  },
+  "9462ab2cc9062129d1e77dbad1b23a81472ca56380d7d8f2bf96ec6c06e019e9": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.95,
+    "bbox": [
+      366,
+      177,
+      264,
+      93
+    ],
+    "edge_ratio": 0.056137,
+    "source": "ResNet50"
+  },
+  "4473343372e8338bad1ed102f7b2e398aa474070c3f488e48a26219278482893": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.93,
+    "bbox": [
+      37,
+      82,
+      21,
+      109
+    ],
+    "edge_ratio": 0.055817,
+    "source": "ResNet50"
+  },
+  "211c7a119e3da82ea451d9dfd39e19689b59cd1138b69913f9651b520e31c27f": {
+    "damage_type": "no_damage",
+    "severity": 0.0,
+    "confidence": 0.68,
+    "bbox": [
+      268,
+      191,
+      164,
+      60
+    ],
+    "edge_ratio": 0.022828,
+    "source": "ResNet50"
+  }
+}

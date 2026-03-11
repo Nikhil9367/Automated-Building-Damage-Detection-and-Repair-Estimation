@@ -1,0 +1,6 @@
+UPLOAD ERROR: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "C:\Users\Lenovo\OneDrive\Desktop\Bulding Damage and Estimation project\Bulding Damage and Estimation project\backend\main.py", line 486, in upload_image
+    json.dump(record, rf, indent=2)
+    ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value

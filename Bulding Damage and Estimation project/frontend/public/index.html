@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <!-- Page title -->
+  <title>BuildSenseAI - Demo Frontend</title>
+
+  <!-- Recommended meta tags -->
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="BuildSenseAI - Structural damage detection frontend" />
+
+  <!-- Favicon placeholder (optional) -->
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+
+  <!-- If you use a web app manifest or theme color, keep these -->
+  <meta name="theme-color" content="#000000" />
+  <style>
+    /* Chatbot Button */
+    #chatbot-btn {
+      position: fixed;
+      right: 20px;
+      bottom: 25px;
+      background: #2563eb;
+      color: white;
+      padding: 15px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 24px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+      z-index: 9999;
+    }
+
+    /* Chatbot Panel */
+    /* 🔥 Copilot-Style Animated Glass Background */
+    #chatbot-panel {
+      position: fixed;
+      top: 0;
+      right: -100%;
+      width: 90%;
+      max-width: 420px;
+      height: 100vh;
+
+      /* Copilot glass + blur */
+      background: rgba(255, 255, 255, 0.12);
+      backdrop-filter: blur(28px);
+      -webkit-backdrop-filter: blur(28px);
+
+      border-left: 1px solid rgba(255, 255, 255, 0.25);
+      box-shadow: -5px 0 25px rgba(0, 0, 0, 0.25);
+
+      display: flex;
+      flex-direction: column;
+      transition: right 0.35s ease;
+      z-index: 99999;
+      overflow: hidden;
+    }
+
+    /* ⚡ Animated floating gradient lights */
+    #chatbot-panel::before,
+    #chatbot-panel::after {
+      content: "";
+      position: absolute;
+      width: 350px;
+      height: 350px;
+      background: radial-gradient(circle at center,
+          rgba(99, 102, 241, 0.55),
+          rgba(168, 85, 247, 0.35),
+          rgba(14, 165, 233, 0.25),
+          transparent 70%);
+      filter: blur(70px);
+      animation: float 8s infinite alternate ease-in-out;
+      z-index: -1;
+    }
+
+    /* 1st floating light */
+    #chatbot-panel::before {
+      top: -80px;
+      right: -60px;
+    }
+
+    /* 2nd floating light */
+    #chatbot-panel::after {
+      bottom: -80px;
+      left: -60px;
+      animation-duration: 10s;
+    }
+
+    /* Floating animation */
+    @keyframes float {
+      0% {
+        transform: translateY(0px) translateX(0px);
+      }
+
+      100% {
+        transform: translateY(40px) translateX(30px);
+      }
+    }
+
+    #chatbot-header {
+      background: #1f2937;
+      color: white;
+      padding: 15px;
+      font-size: 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    #chatbot-header span {
+      cursor: pointer;
+    }
+
+    #chatbot-messages {
+      padding: 15px;
+      height: 80%;
+      overflow-y: auto;
+    }
+
+    .message {
+      padding: 10px 14px;
+      margin-bottom: 10px;
+      border-radius: 8px;
+      max-width: 80%;
+    }
+
+    .user {
+      background: #2563eb;
+      color: white;
+      margin-left: auto;
+    }
+
+    .bot {
+      background: #6588aa;
+      color: black;
+    }
+
+    #chatbot-input-area {
+      display: flex;
+      padding: 10px;
+      border-top: 1px solid #ccc;
+    }
+
+    #chatbot-input {
+      flex: 1;
+      padding: 10px;
+      border: 1px solid #bbb;
+      border-radius: 6px;
+    }
+
+    #chatbot-send {
+      margin-left: 10px;
+      padding: 10px 14px;
+      background: #2563eb;
+      border: none;
+      color: white;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+  </style>
+
+</head>
+
+<body>
+  <!-- This div is where React mounts the app -->
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+
+  <!-- The build system will automatically insert bundled JS here when you run `npm start` or `npm build`. -->
+  <!-- Chatbot Toggle Button -->
+  <!-- Chatbot Side Panel -->
+  <div id="chatbot-panel">
+    <div id="chatbot-header">
+      Smart Assistant
+      <span id="chatbot-close">✖</span>
+    </div>
+
+    <div id="chatbot-messages"></div>
+
+    <div id="chatbot-input-area">
+      <input type="text" id="chatbot-input" placeholder="Ask me anything..." />
+      <button id="chatbot-send">➤</button>
+    </div>
+  </div>
+
+  <script src="chatbot.js"></script>
+
+</body>
+
+</html>

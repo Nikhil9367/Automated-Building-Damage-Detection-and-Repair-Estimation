@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Drilling Machine",
+        "rent_per_day": 350
+    },
+    {
+        "name": "Concrete Cutter",
+        "rent_per_day": 600
+    },
+    {
+        "name": "Scaffolding Set",
+        "rent_per_day": 250
+    },
+    {
+        "name": "Concrete Mixer (Small)",
+        "rent_per_day": 850
+    },
+    {
+        "name": "Vibrator Machine",
+        "rent_per_day": 400
+    },
+    {
+        "name": "Safety Kit (Helmet, Jacket, etc.)",
+        "rent_per_day": 100
+    },
+    {
+        "name": "Lifting Pulley",
+        "rent_per_day": 200
+    },
+    {
+        "name": "Pressure Washer",
+        "rent_per_day": 500
+    }
+]

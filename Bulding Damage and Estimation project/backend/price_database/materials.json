@@ -1,0 +1,134 @@
+{
+    "materials": [
+        {
+            "item": "Cementitious Repair Mortar (OPC-based)",
+            "base_price": 400,
+            "gst_percent": 28,
+            "price_with_gst": 512.0
+        },
+        {
+            "item": "Sand (per ton)",
+            "base_price": 2500,
+            "gst_percent": 5,
+            "price_with_gst": 2625.0
+        },
+        {
+            "item": "Aggregate (per ton)",
+            "base_price": 3000,
+            "gst_percent": 5,
+            "price_with_gst": 3150.0
+        },
+        {
+            "item": "Steel TMT Bars (per kg)",
+            "base_price": 60,
+            "gst_percent": 18,
+            "price_with_gst": 70.8
+        },
+        {
+            "item": "Bricks (per piece)",
+            "base_price": 9,
+            "gst_percent": 5,
+            "price_with_gst": 9.45
+        },
+        {
+            "item": "Epoxy Grout (per kg)",
+            "base_price": 150,
+            "gst_percent": 18,
+            "price_with_gst": 177.0
+        },
+        {
+            "item": "Polymer Modified Mortar (per litre)",
+            "base_price": 350,
+            "gst_percent": 18,
+            "price_with_gst": 413.0
+        },
+        {
+            "item": "Fiberglass Mesh (per m2)",
+            "base_price": 100,
+            "gst_percent": 18,
+            "price_with_gst": 118.0
+        },
+        {
+            "item": "Exterior Primer (per litre)",
+            "base_price": 250,
+            "gst_percent": 18,
+            "price_with_gst": 295.0
+        },
+        {
+            "item": "Exterior Paint (touch-up / blending)",
+            "base_price": 550,
+            "gst_percent": 18,
+            "price_with_gst": 649.0
+        },
+        {
+            "item": "Waterproofing Chemical (per litre)",
+            "base_price": 320,
+            "gst_percent": 18,
+            "price_with_gst": 377.6
+        },
+        {
+            "item": "Ready Mix Concrete (per m3)",
+            "base_price": 5000,
+            "gst_percent": 28,
+            "price_with_gst": 6400.0
+        }
+    ],
+    "labour": [
+        {
+            "item": "Mason (per day)",
+            "base_price": 1200,
+            "gst_percent": 0,
+            "price_with_gst": 1200
+        },
+        {
+            "item": "Helper (per day)",
+            "base_price": 700,
+            "gst_percent": 0,
+            "price_with_gst": 700
+        },
+        {
+            "item": "Carpenter (per day)",
+            "base_price": 1200,
+            "gst_percent": 0,
+            "price_with_gst": 1200
+        },
+        {
+            "item": "Bar Bender (per day)",
+            "base_price": 900,
+            "gst_percent": 0,
+            "price_with_gst": 900
+        }
+    ],
+    "equipment": [
+        {
+            "item": "Drill Machine (per day)",
+            "base_price": 300,
+            "gst_percent": 18,
+            "price_with_gst": 354.0
+        },
+        {
+            "item": "Concrete Cutter (per day)",
+            "base_price": 500,
+            "gst_percent": 18,
+            "price_with_gst": 590.0
+        },
+        {
+            "item": "Scaffolding (per day)",
+            "base_price": 200,
+            "gst_percent": 18,
+            "price_with_gst": 236.0
+        },
+        {
+            "item": "Mixer Machine (per day)",
+            "base_price": 300,
+            "gst_percent": 18,
+            "price_with_gst": 354.0
+        },
+        {
+            "item": "Safety Gear (per day)",
+            "base_price": 100,
+            "gst_percent": 18,
+            "price_with_gst": 118.0
+        }
+    ]
+}
