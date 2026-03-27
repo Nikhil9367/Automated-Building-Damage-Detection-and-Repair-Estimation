@@ -7,6 +7,7 @@ It provides:
 - Damage Report PDF and Remediation Report PDF generation (server-side using ReportLab)
 - React frontend to upload images and download generated PDFs
 
+
 ## What is included
 - backend/ (FastAPI app)
 - frontend/ (React app skeleton)
