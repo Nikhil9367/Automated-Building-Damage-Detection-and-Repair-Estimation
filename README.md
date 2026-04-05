@@ -52,3 +52,7 @@ It provides:
 - Replace `mock_detect_crack` in `backend/main.py` with a trained CNN or YOLO model for production-quality detection.
 - PDF generation is done with ReportLab. Customize templates in `backend/main.py`.
 
+
+
+---
+> 🛡️ **Automated Security Scan:** 05-April-2026 | **Status:** Warning: 11 potential issues detected ⚠️
